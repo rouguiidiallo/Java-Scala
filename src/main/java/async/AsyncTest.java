@@ -33,5 +33,7 @@ class AsyncTest {
   public static CompletableFuture<Tuple2<Option<Ceo>, Option<Enterprise>>> getCEOAndEnterprise(String ceo_id) {
     return null;
   }
-
+  public static void Personnal(string first_name, string last_name, enterprises){
+    personne == new Personnal();
+  }
 }
